@@ -14,4 +14,4 @@ It consists of two files:
 
 As an example, in '_output_' directory arev presented two records for 1.3 GHz 1W radars and for 9.3GHz 10W radars.
 
-The directory '_doc_' includes the PDF file with a presentation that describe the basic idea of the simulator's design.
+The directory '_doc_' includes the PDF file with a presentation that describes the basic ideas of the simulator's design.
