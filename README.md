@@ -12,6 +12,6 @@ It consists of two files:
 
 - visualize_model.m - function that visualizes the input scene's geometry and the time sequence of range-Doppler planes for the radar sequence. Uses '_maxfig_' function from [Figure Management Utilities](https://www.mathworks.com/matlabcentral/fileexchange/12607-figure-management-utilities)
 
-As an example, in '_output_' directory arev presented two records for 1.3 GHz 1W radars and for 9.3GHz 10W radars.
+As an example, in '_output_' directory are presented two records for 1.3 GHz 1W radars and for 9.3GHz 10W radars.
 
 The directory '_doc_' includes the PDF file with a presentation that describes the basic ideas of the simulator's design.
