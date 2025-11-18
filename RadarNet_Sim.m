@@ -1,5 +1,5 @@
 
-%function RAEBELL_Sim
+%function RadarNet_Sim
 
 %========================================================
 % v.1.0 - 27.12.2012, OK@TUD
